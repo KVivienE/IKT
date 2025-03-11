@@ -1,4 +1,4 @@
 table{ border: 5px magenta solid;}
-tr, td {border: 5px pink double;}
-tr :active{ background-color: violet; color: white;}
-td:hover {background-color: blueviolet; color: white;}
+tr,td{border: 5px pink double;}
+tr:active{ background-color: violet; color: white;}
+td:hover{background-color: blueviolet; color: white;}
